@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#s-main{
+    border: 0.2px solid whitesmoke;
+    color: white;
+    width: 20px;
+    cursor: pointer;
+    border-radius: 50px;
+    font-size: 12px;
+    text-align: center;
+}
+.s-inp{
+    border: 0.1px solid gray;
+    outline: none;
+    width: 95px;
+    height: 22px;
+    margin: 2px;
+    background-color: rgb(222, 222, 230);
+}
+.s-main-1{
+    width: 29%;
+    background-color: gray;
+    margin-left: 30%;
+    margin-top: 5%;
+    box-shadow: 0px 3px 15px rgba(113 , 115 ,119 , 2);
+    border-radius: 4px;
+}
+.s-tbl{
+    padding-left: 4px;    
+}
+.s-b1{
+    background-color: rgb(119, 108, 108);
+}
